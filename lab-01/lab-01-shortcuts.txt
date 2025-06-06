@@ -1,0 +1,19 @@
+total 328
+-rw-r--r--@ 1 ulyscd  staff  161540 Apr  4 11:21 lab-01-folders.png
+-rw-r--r--@ 1 ulyscd  staff     456 Apr  4 11:23 lab-01-folders.txt
+-rw-r--r--@ 1 ulyscd  staff       0 Apr  4 11:29 lab-01-shortcuts.txt
+1. Copy selected text to clipboard (copy/paste buffer)
+2. Paste from buffer
+3. Cut selected text to buffer (selected text is deleted)
+4. Save current file in VSCode
+5. Toggle block comment in VSCode
+6. Toggle line comment in VSCode
+7. Move cursor from word to word right
+8. Move cursor from word to word left
+9. Select word right
+10. Select word left
+11. Select all contents
+12. Select current line, including end of line character
+13. Jump to start of line
+14. Jump to end of line
+15. Jump to beginning of current file

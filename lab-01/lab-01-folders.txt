@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--@ 1 ulyscd  staff   0 Apr  4 11:23 lab-01-folders.txt
+drwxr-xr-x@ 3 ulyscd  staff  96 Apr  4 11:22 p1
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p2
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p3
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p4
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p5
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p6
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p7
+drwxr-xr-x@ 2 ulyscd  staff  64 Apr  4 11:20 p8
